@@ -1,4 +1,6 @@
 # hello-world
 first repository
-type type not to the master
-test
+For all the community,
+testing here some writting
+learning to writte my own apps.
+Testing to compare
